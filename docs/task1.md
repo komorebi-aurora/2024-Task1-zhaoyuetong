@@ -6,6 +6,4 @@
 
 ##问题 2：你觉得我的名字“赵悦彤”怎么样？
 
-"C:\Users\华硕\2024-Task1-zhaoyuetong\images\name-evaluation.png"
-
 ![name-evaluation](C:\Users\华硕\2024-Task1-zhaoyuetong\images\name-evaluation.png)
